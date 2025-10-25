@@ -1,0 +1,4 @@
+struct Day {
+    char *day_name;
+    int date;
+    char *activity;
